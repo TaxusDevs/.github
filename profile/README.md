@@ -1,3 +1,10 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20iOS-blue)
+![API](https://img.shields.io/badge/api-public-orange)
+![Spoofer](https://img.shields.io/badge/spoofer-HWID%20%7C%20MAC%20%7C%20Device-informational)
+![Premium](https://img.shields.io/badge/premium-available-yellow)
+![Beta](https://img.shields.io/badge/beta-access-purple)
+
 # 🌲 Welcome to TaxusDevs
 
 **TaxusDevs** is the development team behind **Taxus**, a powerful, cross-platform executor for **Roblox** supporting:
