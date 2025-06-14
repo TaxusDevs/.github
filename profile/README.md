@@ -1,12 +1,59 @@
-## Hi there 👋
+# 🌲 Welcome to TaxusDevs
 
+**TaxusDevs** is the development team behind **Taxus**, a powerful, cross-platform executor for **Roblox** supporting:
+
+- 🖥 **Windows**
+- 📱 **Android**
+- 🍎 **iOS**
+
+We build tools that enable creators, developers, and advanced users to enhance their scripting experience on Roblox with speed, privacy, and control.
+
+---
+
+## 🧰 What We Offer
+
+### 🚀 **Taxus Executor**
+A fast, reliable, and secure executor that works across all major platforms. Trusted by thousands.
+
+### 🌐 **Public API**
+Integrate Roblox script execution into your own applications or automation workflows using our API.
+
+### 🛡️ **Spoofer**
+Protect your device identity with spoofing tools:
+- HWID spoofing
+- MAC address masking
+- Device name randomization
+
+### 💎 **Premium & Beta**
+- Early access to upcoming features
+- Advanced execution capabilities
+- Support the project and get exclusive perks
+
+---
 <!--
+## 📦 Repositories You'll Find Here
 
-**Here are some ideas to get you started:**
+- [`taxus-launcher`](https://github.com/TaxusDevs/taxus-launcher) – Cross-platform launcher
+- [`taxus-api`](https://github.com/TaxusDevs/taxus-api) – Public API access and docs
+- [`taxus-mobile`](https://github.com/TaxusDevs/taxus-mobile) – Android/iOS builds
+- ...and more
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+--- -->
+
+## 🧠 Learn More
+
+- 🌐 Website: [Taxus Website](https://taxus.netlify.app)
+- 📖 Docs: [COMING SOON](https://dsc.gg/taxus)
+- 💬 Discord: [Join the Community](https://dsc.gg/taxus)
+
+---
+
+## ⚠️ Legal & Disclaimer
+
+> Taxus is intended for educational and research purposes only.  
+Use responsibly and in compliance with Roblox’s Terms of Service.  
+We do not support cheating, exploitation, or malicious use.
+
+---
+
+© 2025 TaxusDevs. All rights reserved.
